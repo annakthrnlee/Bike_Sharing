@@ -27,7 +27,7 @@ Those visualizations include:
 <img width="1676" alt="Screen Shot 2022-08-09 at 5 38 43 PM" src="https://user-images.githubusercontent.com/104043438/183779874-71d9b4d7-af37-4886-8174-cfa8e5cbd112.png">
 
 #### The visualization below describes the number of bike trips for each type of user and gender for each day of the week. 
-##### As you can see, the most popular user is male and also a subscriber. 
+##### As you can see, the most popular users are male subscribers. 
 
 <img width="457" alt="Screen Shot 2022-08-09 at 5 42 47 PM" src="https://user-images.githubusercontent.com/104043438/183780301-c2a772e2-bd4a-463a-a5b9-d04bd1a3c9d0.png">
 
