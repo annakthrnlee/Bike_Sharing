@@ -6,11 +6,11 @@ I created an analysis using Tableau to help investors visualize the potential fo
 - The number of bike trips for all riders and genders for each hour of each day of the week.
 - The number of bike trips for each type of user and gender for each day of the week.
 
-I also incldued a dashboard that contains the basic information necessary to understand these visualizations. 
+I also included a dashboard that contains the basic information necessary to understand these visualizations. 
 Those visualizations include:
 - Number of trips.
 - Customer type.
-- August peak hours and a sugesstion for bike repair times. 
+- August peak hours and a suggestion for bike repair times. 
 - Gender breakdown. 
 - Top starting ride locations (filtered by popularity) 
 
@@ -30,3 +30,9 @@ Those visualizations include:
 ##### As you can see, the most popular user is male and also a subscriber. 
 
 <img width="457" alt="Screen Shot 2022-08-09 at 5 42 47 PM" src="https://user-images.githubusercontent.com/104043438/183780301-c2a772e2-bd4a-463a-a5b9-d04bd1a3c9d0.png">
+
+#### The visualization below describes the number of bike trips for each gender by hour. 
+##### As you can see, the most active gender is males during the time frame of 8AM (Monday-Friday) as well as 5PM-6PM (Monday-Friday). 
+
+<img width="1367" alt="Screen Shot 2022-08-09 at 5 50 50 PM" src="https://user-images.githubusercontent.com/104043438/183781059-bc1fadf6-737a-4d2c-ba8a-a24a09c4cdf6.png">
+
