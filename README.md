@@ -4,8 +4,8 @@ The objective of this analysis is to analyze the Citibike NYC data throughout Au
 ![giphy (1)](https://user-images.githubusercontent.com/104043438/183797598-896c2913-760e-47a9-a9c3-7f4b8d3e2bfa.gif)
 
 ## Resources:
-Software: Jupyter Notebook, Pandas, Python, and Tableau 
-Links: https://public.tableau.com/app/profile/anna.lee1454#!/ ***Checkout the link to view my tableau workbooks for this analysis***
+- Software: Jupyter Notebook, Pandas, Python, and Tableau 
+- Links: https://public.tableau.com/app/profile/anna.lee1454#!/ ***Checkout the link to view my tableau workbooks for this analysis***
 
 ## Overview: 
 I created an analysis using Tableau to help investors visualize the potential for a bike-sharing program in Des Moines. My bike trip analysis provides the following:
@@ -43,6 +43,9 @@ Those visualizations include:
 
 <img width="1367" alt="Screen Shot 2022-08-09 at 5 50 50 PM" src="https://user-images.githubusercontent.com/104043438/183781059-bc1fadf6-737a-4d2c-ba8a-a24a09c4cdf6.png">
 
-## Des Moines:
+## Summary:
+City bike programs are popular, especially in dense urban areas such as NYC. Male subscribers dominate the user variety; more research should be done to better understand why. It would be smart to target more female users through advertising, doing so would help increase profits and popularity through new customer support. More analyses can be found through my Tableau link. I include all parts of the data file using a variety of different visualizations. 
+
+## Des Moines: Additional research 
 After analyzing the NYC Citibike data, I think it would be beneficial for the city to adopt a city bike program. Another visualization that could be beneficial to include in the business proposal could be to analyze the amount of vehicle traffic and try to determine the pros for users if they were to switch to a city bike alternative. 
 Also, it would be interesting to try and visualize the positive environmental impacts that city bikes have on a specific city. If people were interested in a city bike program and chose to bike as an alternative to vehicles, the impact could positively affect the area. 
