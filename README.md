@@ -40,3 +40,7 @@ Those visualizations include:
 ##### As you can see, the most active gender is males during the time frame of 8AM (Monday-Friday) as well as 5PM-6PM (Monday-Friday). 
 
 <img width="1367" alt="Screen Shot 2022-08-09 at 5 50 50 PM" src="https://user-images.githubusercontent.com/104043438/183781059-bc1fadf6-737a-4d2c-ba8a-a24a09c4cdf6.png">
+
+## Des Moines:
+After analyzing the NYC Citibike data, I think it would be beneficial for the city to adopt a city bike program. Another visualization that could be beneficial to include in the business proposal could be to analyze the amount of vehicle traffic and try to determine the pros for users if they were to switch to a city bike alternative. 
+Also, it would be interesting to try and visualize the positive environmental impacts that city bikes have on a specific city. If people were interested in a city bike program and chose to bike as an alternative to vehicles, the impact could positively affect the area. 
