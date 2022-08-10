@@ -1,4 +1,9 @@
 # Bike_Sharing
+The objective of this analysis is to analyze the Citibike NYC data throughout August 2019 and put together a business proposal for the Des Moines, Iowa area. The question is: Should Des Moines adopt a city bike program? 
+
+## Resources:
+Software: Jupyter Notebook, Pandas, Python, and Tableau 
+Links: https://public.tableau.com/app/profile/anna.lee1454#!/ ***Checkout the link to view my tableau workbooks***
 
 ## Overview: 
 I created an analysis using Tableau to help investors visualize the potential for a bike-sharing program in Des Moines. My bike trip analysis provides the following:
@@ -35,4 +40,3 @@ Those visualizations include:
 ##### As you can see, the most active gender is males during the time frame of 8AM (Monday-Friday) as well as 5PM-6PM (Monday-Friday). 
 
 <img width="1367" alt="Screen Shot 2022-08-09 at 5 50 50 PM" src="https://user-images.githubusercontent.com/104043438/183781059-bc1fadf6-737a-4d2c-ba8a-a24a09c4cdf6.png">
-
