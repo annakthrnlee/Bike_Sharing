@@ -1,7 +1,7 @@
 # Bike_Sharing
 The objective of this analysis is to analyze the Citibike NYC data throughout August 2019 and put together a business proposal for the Des Moines, Iowa area. The question is: Should Des Moines adopt a city bike program? 
 
-![giphy (1)](https://user-images.githubusercontent.com/104043438/183797598-896c2913-760e-47a9-a9c3-7f4b8d3e2bfa.gif)
+![giphy (1)](https://user-images.githubusercontent.com/104043438/183799747-f026aa46-c4eb-422e-9299-4d81f2dd1d53.gif)
 
 ## Resources:
 - Software: Jupyter Notebook, Pandas, Python, and Tableau 
