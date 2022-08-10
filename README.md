@@ -3,7 +3,7 @@ The objective of this analysis is to analyze the Citibike NYC data throughout Au
 
 ## Resources:
 Software: Jupyter Notebook, Pandas, Python, and Tableau 
-Links: https://public.tableau.com/app/profile/anna.lee1454#!/ ***Checkout the link to view my tableau workbooks***
+Links: https://public.tableau.com/app/profile/anna.lee1454#!/ ***Checkout the link to view my tableau workbooks for this analysis***
 
 ## Overview: 
 I created an analysis using Tableau to help investors visualize the potential for a bike-sharing program in Des Moines. My bike trip analysis provides the following:
